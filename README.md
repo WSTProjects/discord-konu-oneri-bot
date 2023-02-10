@@ -1,4 +1,4 @@
-# Lütfen Okuyunuz! 
+# Lütfen Okuyunuz! - 10.02.2023
 Bu Bot Hem Beceri Hem de Yenilik Olması Amacıyla Sıfırdan Yapılmıştır ve Hiçbir Amaca Yönelik Değildir.
 İçerisinde **Spor,Film ve Karışık (İkisi Bir Arada)** Olacak Şekilde 3 Sistem Mevcuttur.
 Ayrıca Yardım Menüsü İle Beraber **Konu Öneri ve Destek Sunucusu** Komutu Eklenmiştir.
